@@ -1,7 +1,2 @@
-- Hi, I’m @malekpouri
-- I'm a programmer.
-- Here are the codes that I feel can help others learn the programming language.
-<!---
-malekpouri/malekpouri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Mohammad, I'm an engineer writing code.
+I am also the developer of Ehsasoo (a website that helps users choose an image for different situations based on how users feel about your image), Ghesetoo (a website that helps you get the tools you need for your job Choose by narrating the lives of people) and a web music player called iPlay (which plays songs for you regardless of your taste or opinion).I try to participate in the world around me to make it better. I deeply care about creating world-class, useful and beautiful products that help people make a difference.
